@@ -1,0 +1,6 @@
+<module>
+    <!--<inherits name='com.google.gwt.json.JSON'/>-->
+    <inherits name='com.google.gwt.user.User'/>    
+	<script src="jit/jit.js"/>
+	<script src="jit/Extras/excanvas.js"/>
+</module>
